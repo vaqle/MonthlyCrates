@@ -1,0 +1,7 @@
+name: MonthlyCrates
+version: 1.0.0
+api: 3.0.0
+main: vale\MonthlyCrates
+description: "Monthly Crates Plugin"
+authors:
+  - xvqle
