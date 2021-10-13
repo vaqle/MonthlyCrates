@@ -1,5 +1,3 @@
-# MonthlyCratesv2
-Basically when i was really dumb i made a MonthlyCrates Plugin and the code quality was terrible lets just say ive learned from my mistakes :sunglasses:
+COsmicPVP Monthly Crates
 
-Also Download invmenu from here
-https://poggit.pmmp.io/ci/Muqsit/InvMenu/InvMenu
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.604%;"><iframe src="https://streamable.com/e/uqqc1i" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
